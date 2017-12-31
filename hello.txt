@@ -1,6 +1,4 @@
-hello world!
-<<<<<<< HEAD
+﻿hello world!
 hello 信磊！
 你好啊，信磊
-=======
->>>>>>> parent of df7a942... Update hello.txt
+1111
